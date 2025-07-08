@@ -10,9 +10,7 @@ This report will first establish the historical and theoretical foundation for t
 
 Section 1: The Legacy of Oppression and the Weaponization of Information
 
-To understand why privacy is a unique imperative for certain communities, one must first understand the nature of marginalization itself. Historically marginalized groups are communities that have been systematically excluded, oppressed, or disadvantaged due to factors such as race, ethnicity, gender, socioeconomic status, religion, disability, or sexual orientation.3 This marginalization is not a static identity but a dynamic
-
-process rooted in systemic inequalities and power imbalances that limit access to critical resources like education, healthcare, economic opportunity, and political representation.5 This systemic disadvantage creates a state of heightened vulnerability, where the misuse of information is not an abstract risk but a direct threat to safety, liberty, and well-being.
+To understand why privacy is a unique imperative for certain communities, one must first understand the nature of marginalization itself. Historically marginalized groups are communities that have been systematically excluded, oppressed, or disadvantaged due to factors such as race, ethnicity, gender, socioeconomic status, religion, disability, or sexual orientation.3 This marginalization is not a static identity but a dynamic process rooted in systemic inequalities and power imbalances that limit access to critical resources like education, healthcare, economic opportunity, and political representation.5 This systemic disadvantage creates a state of heightened vulnerability, where the misuse of information is not an abstract risk but a direct threat to safety, liberty, and well-being.
 
 Historical Precedents of Surveillance as Control
 
@@ -48,9 +46,7 @@ If surveillance is the eye of the system, algorithms are its brain, making autom
 
 Predictive Policing: Predictive policing systems use historical crime data to forecast where crime is likely to occur, directing police resources to those areas.17 However, as civil rights organizations like the NAACP and ACLU have argued, this is a deeply flawed premise. Historical crime data is not a neutral reflection of criminal activity; it is a reflection of historical policing practices, which have long over-policed and targeted Black and Brown communities.17 By training on this biased data, predictive policing algorithms create a discriminatory feedback loop: the algorithm predicts crime in a minority neighborhood, police are dispatched there in greater numbers, more arrests are made for minor offenses, and this new arrest data is fed back into the system, "proving" the algorithm was right.21 The result is not the prediction of crime, but the prediction and automation of biased policing.22 Case studies from Chicago's "Strategic Subjects List" and Los Angeles's PredPol program have shown these systems disproportionately flag Black and Latino individuals as high-risk, leading to increased surveillance and arrests without reducing actual crime rates.17
 
-Hiring and Employment: The use of AI in hiring and recruitment is a rapidly growing field, but one fraught with risk. AI tools are used to screen resumes, analyze video interviews, and predict candidate success. However, if these models are trained on a company's historical hiring data, which may reflect decades of conscious or unconscious bias, the AI will learn to replicate those patterns.23 For example, an AI trained on the profiles of a company's current, predominantly male engineering team may learn to penalize resumes that include words associated with women's colleges or clubs.24 This can effectively prevent capable candidates from marginalized groups from even getting an interview. The landmark 2024 class-action lawsuit,
-
-Mobley v. Workday, alleges that Workday's widely used AI-driven recruitment software engages in a "pattern and practice" of discrimination based on race, age, and disability, systematically disqualifying protected candidates.23
+Hiring and Employment: The use of AI in hiring and recruitment is a rapidly growing field, but one fraught with risk. AI tools are used to screen resumes, analyze video interviews, and predict candidate success. However, if these models are trained on a company's historical hiring data, which may reflect decades of conscious or unconscious bias, the AI will learn to replicate those patterns.23 For example, an AI trained on the profiles of a company's current, predominantly male engineering team may learn to penalize resumes that include words associated with women's colleges or clubs.24 This can effectively prevent capable candidates from marginalized groups from even getting an interview. The landmark 2024 class-action lawsuit, Mobley v. Workday, alleges that Workday's widely used AI-driven recruitment software engages in a "pattern and practice" of discrimination based on race, age, and disability, systematically disqualifying protected candidates.23
 
 Credit, Housing, and Healthcare: Algorithmic bias extends to nearly every critical life opportunity. In finance, algorithms used for credit scoring can perpetuate historical economic disparities, denying loans to qualified applicants in marginalized communities. In housing, algorithms have been used to discriminate in ad delivery, preventing people of color from seeing housing opportunities.7 In healthcare, AI systems designed to predict patient needs have been found to exhibit racial bias, leading to Black patients receiving a lower standard of care because the algorithm used healthcare cost as a proxy for health needs, failing to account for the fact that less money is spent on Black patients for the same level of need.13
 
@@ -237,161 +233,82 @@ Inspiration for this work can be drawn from artistic and cultural movements like
 The final call to action is this: the role of the privacy professional in the 21st century must evolve. It is no longer sufficient to be a compliance officer or a risk mitigator. The challenges of our time demand that privacy professionals become proactive advocates for social justice, facilitators of community power, and architects of a more equitable digital world. By embracing the critical theories that expose the workings of power, adopting the justice-oriented design practices that center the most impacted, and wielding the practical tools that can dismantle digital harms, they can help build technologies that sustain, heal, and empower all communities. The future is not something to be predicted; it is something to be designed. The imperative is to ensure it is designed with justice for all.
 
 Works cited
-
-The social value of privacy, the value of privacy to society and human rights discourse (Chapter 12) - Social Dimensions of Privacy - Cambridge University Press, accessed July 6, 2025,
-
-Surveillance is a Racial Justice Issue - ACLU of Wisconsin, accessed July 6, 2025,
-
-oxford-review.com, accessed July 6, 2025,
-
-Historically Marginalised Groups - Definition and Explanation - The Oxford Review, accessed July 6, 2025,
-
-Diversity and Marginalized Communities - ACTEC, accessed July 6, 2025,
-
-Understanding Marginalized Communities - Number Analytics, accessed July 6, 2025,
-
-Examining the intersection of data privacy and civil rights - Brookings Institution, accessed July 6, 2025,
-
-Harris on Surveillance | American Civil Liberties Union, accessed July 6, 2025,
-
-Mapping the FBI | American Civil Liberties Union, accessed July 6, 2025,
-
-Surveillance vs. Privacy — Balancing Security and Freedom in Cybersecurity - Medium, accessed July 6, 2025,
-
-ACLU Seeks Information on Government's Aerial Surveillance of Protesters, accessed July 6, 2025,
-
-Privacy and Surveillance - ACLU Massachusetts, accessed July 6, 2025,
-
-Privacy & Racial Justice – EPIC – Electronic Privacy Information ..., accessed July 6, 2025,
-
-Surveillance and Social Justice - Number Analytics, accessed July 6, 2025,
-
-CBP Releases December 2024 Monthly Update | U.S. Customs and Border Protection, accessed July 6, 2025,
-
-About 1 in 4 U.S. adults worry they or someone close to them could be deported, accessed July 6, 2025,
-
-Racial Justice and Predictive Policing - Number Analytics, accessed July 6, 2025,
-
-Algorithmic Justice or Bias: Legal Implications of Predictive Policing Algorithms in Criminal Justice - The Johns Hopkins Undergraduate Law Review, accessed July 6, 2025,
-
-The Use of Artificial Intelligence in Predictive Policing - NAACP, accessed July 6, 2025,
-
-Artificial Intelligence in Predictive Policing Issue Brief - NAACP, accessed July 6, 2025,
-
-Does Predictive Policing Lead to Biased Arrests? Results From a Randomized Controlled Trial, accessed July 6, 2025,
-
-Report Claims Predictive Policing Targets Marginalized - Davis Vanguard, accessed July 6, 2025,
-
-Algorithmic Bias in AI Employment Decisions - Journal of ..., accessed July 6, 2025,
-
-ACM Conference on Fairness, Accountability, and Transparency - Wikipedia, accessed July 6, 2025,
-
-www.hklaw.com, accessed July 6, 2025,
-
-Artificial Intelligence in Hiring: Diverging Federal, State Perspectives on AI in Employment?, accessed July 6, 2025,
-
-Digital redlining - Wikipedia, accessed July 6, 2025,
-
-Digital Redlining: What It Is and How It Continues to Impact Communities - CNET, accessed July 6, 2025,
-
-Digital Redlining and the Black Rural South - Capital B News, accessed July 6, 2025,
-
-Digital Redlining | County Health Rankings & Roadmaps, accessed July 6, 2025,
-
-Predatory advertising - Wikipedia, accessed July 6, 2025,
-
-MAPPING EXPLOITATION - Student Borrower Protection Center, accessed July 6, 2025,
-
-Multilevel Marketing, an Unwinnable Lottery: How MLMs Illegally Target Women and Minorities Using Deceptive and Predatory Recrui - Georgetown Law, accessed July 6, 2025,
-
-Policy solutions to predatory marketing: Protecting today's children and youth from a lifetime of chronic disease | NCD Alliance, accessed July 6, 2025,
-
-The Failure of Fair Information Practice Principles - ResearchGate, accessed July 6, 2025,
-
-The Cost of Data Privacy Negligence (And How to Avoid It) - Countly, accessed July 6, 2025,
-
-Data privacy compliance challenges: navigating the regulatory landscape - TrustCommunity, accessed July 6, 2025,
-
-A Comparative Analysis of the NIST Privacy Framework vs. the EU's GDPR - Securiti.ai, accessed July 6, 2025,
-
-NIST Privacy Framework - Hyperproof, accessed July 6, 2025,
-
-Targeted Universalism | Othering & Belonging Institute, accessed July 6, 2025,
-
-Postdevelopment theory - Wikipedia, accessed July 6, 2025,
-
-Universalism - IB Global Politics, accessed July 6, 2025,
-
-Contextual integrity - Wikipedia, accessed July 6, 2025,
-
-998: Primer on the Contextual Integrity Theory of Privacy with Philosopher Helen Nissenbaum - Voices of VR Podcast, accessed July 6, 2025,
-
-Contextual Integrity Up and Down the Data Food Chain - Helen Nissenbaum, accessed July 6, 2025,
-
-Going Against the (Appropriate) Flow: A Contextual Integrity Approach to Privacy Policy Analysis - Submitted to FTC PrivacyCon20, accessed July 6, 2025,
-
-"Privacy as Contextual Integrity" by Helen Nissenbaum - UW Law Digital Commons, accessed July 6, 2025,
-
-Critical race theory - Wikipedia, accessed July 6, 2025,
-
-Data & Society — Race, Surveillance, Resistance, accessed July 6, 2025,
-
-Surveillance as a Feminist Issue | Privacy International, accessed July 6, 2025,
-
-Data + Feminism Lab, MIT, accessed July 6, 2025,
-
-Design Justice Network Principles - Digital Government Hub, accessed July 6, 2025,
-
-Design Justice Network Principles — R / D - Reading Design, accessed July 6, 2025,
-
-Design Justice Network - Allied Media Projects, accessed July 6, 2025,
-
-Read the Principles — Design Justice Network, accessed July 6, 2025,
-
-Embracing Anti-Oppressive Practice: Building a More Inclusive and Equitable Society, accessed July 6, 2025,
-
-Opening up inclusion: Anti-oppression and inclusive design ..., accessed July 6, 2025,
-
-A framework for anti-oppressive design | by Jessica Meharry - Medium, accessed July 6, 2025,
-
-What is co-design? - Beyond Sticky Notes, accessed July 6, 2025,
-
-What Is Codesign? | IxDF, accessed July 6, 2025,
-
-Co-design with marginalised people: designers' perceptions of barriers and enablers, accessed July 6, 2025,
-
-Co-design Tensions Between Parents, Children, and Researchers Regarding Mobile Health Technology Design Needs and Decisions: Case Study, accessed July 6, 2025,
-
-(PDF) Generative Tools for Co-designing - ResearchGate, accessed July 6, 2025,
-
-Diversity, Equity, and Inclusion Resource and Advisory Committee (DRAC) Equity Impact Assessment Tool - COMSEP, accessed July 6, 2025,
-
-Health Equity Impact Assessment (HEIA) - CAMH, accessed July 6, 2025,
-
-Equity Review Tool - Every Learner Everywhere, accessed July 6, 2025,
-
-Evidence- and Consensus-Based Digital Healthcare Equity Framework - Johns Hopkins Bloomberg School of Public Health, accessed July 6, 2025,
-
-Impact Assessment 101 - Comprehensive Guide to Business Impact Analysis - Simfoni, accessed July 6, 2025,
-
-Ensuring Data Privacy in AI: Best Practices and Challenges - Rapid Innovation, accessed July 6, 2025,
-
-Data Privacy In AI-Driven Learning And Ethical Considerations - eLearning Industry, accessed July 6, 2025,
-
-AI and Data Privacy: Practical Tips for Securing AI Systems | SmartDev, accessed July 6, 2025,
-
-Privacy & Surveillance Archives - AI Now Institute, accessed July 6, 2025,
-
-Tech Experts Share Tested And Effective Data Minimization Strategies - Forbes, accessed July 6, 2025,
-
-Equitable differential privacy - PMC, accessed July 6, 2025,
-
-Best Practices to Mitigate AI Data Privacy Concerns - Salient Process, accessed July 6, 2025,
-
-Shaping futures with Speculative design - AFRY, accessed July 6, 2025,
-
-How to Get Started with Speculative Design: A Step-by-Step Guide - Onething Design, accessed July 6, 2025,
-
-Speculative Design for long term future foresight and strategy - Trend Atelier, accessed July 6, 2025,
-
-How Afrofuturism mixes science fiction and social justice | PBS News, accessed July 6, 2025,
+The social value of privacy, the value of privacy to society and human rights discourse (Chapter 12) - Social Dimensions of Privacy - Cambridge University Press, accessed July 6, 2025, https://www.cambridge.org/core/books/social-dimensions-of-privacy/social-value-of-privacy-the-value-of-privacy-to-society-and-human-rights-discourse/C7928DCFE25D3576FA575988144FC478
+Surveillance is a Racial Justice Issue - ACLU of Wisconsin, accessed July 6, 2025, https://www.aclu-wi.org/en/news/surveillance-racial-justice-issue
+oxford-review.com, accessed July 6, 2025, https://oxford-review.com/the-oxford-review-dei-diversity-equity-and-inclusion-dictionary/historically-marginalised-groups-definition-and-explanation/#:~:text=Historically%20Marginalised%20Groups%20are%20communities,%2C%20disability%2C%20or%20sexual%20orientation.
+Historically Marginalised Groups - Definition and Explanation - The Oxford Review, accessed July 6, 2025, https://oxford-review.com/the-oxford-review-dei-diversity-equity-and-inclusion-dictionary/historically-marginalised-groups-definition-and-explanation/
+Diversity and Marginalized Communities - ACTEC, accessed July 6, 2025, https://www.actec.org/planning-for-a-diverse-and-equitable-future/marginalized-communities/
+Understanding Marginalized Communities - Number Analytics, accessed July 6, 2025, https://www.numberanalytics.com/blog/understanding-marginalized-communities
+Examining the intersection of data privacy and civil rights - Brookings Institution, accessed July 6, 2025, https://www.brookings.edu/articles/examining-the-intersection-of-data-privacy-and-civil-rights/
+Harris on Surveillance | American Civil Liberties Union, accessed July 6, 2025, https://www.aclu.org/harris-on-surveillance
+Mapping the FBI | American Civil Liberties Union, accessed July 6, 2025, https://www.aclu.org/mapping-the-fbi
+Surveillance vs. Privacy — Balancing Security and Freedom in Cybersecurity - Medium, accessed July 6, 2025, https://medium.com/@RocketMeUpCybersecurity/surveillance-vs-privacy-balancing-security-and-freedom-in-cybersecurity-3bada300616f
+ACLU Seeks Information on Government's Aerial Surveillance of Protesters, accessed July 6, 2025, https://www.aclu.org/news/national-security/aclu-seeks-information-on-governments-aerial-surveillance-of-protesters
+Privacy and Surveillance - ACLU Massachusetts, accessed July 6, 2025, https://www.aclum.org/en/issues/privacy-and-surveillance
+Privacy & Racial Justice – EPIC – Electronic Privacy Information ..., accessed July 6, 2025, https://epic.org/issues/democracy-free-speech/privacy-and-racial-justice/
+Surveillance and Social Justice - Number Analytics, accessed July 6, 2025, https://www.numberanalytics.com/blog/surveillance-and-social-justice
+CBP Releases December 2024 Monthly Update | U.S. Customs and Border Protection, accessed July 6, 2025, https://www.cbp.gov/newsroom/national-media-release/cbp-releases-december-2024-monthly-update
+About 1 in 4 U.S. adults worry they or someone close to them could be deported, accessed July 6, 2025, https://www.pewresearch.org/short-reads/2025/06/27/about-1-in-4-us-adults-worry-they-or-someone-close-to-them-could-be-deported/
+Racial Justice and Predictive Policing - Number Analytics, accessed July 6, 2025, https://www.numberanalytics.com/blog/racial-justice-predictive-policing
+Algorithmic Justice or Bias: Legal Implications of Predictive Policing Algorithms in Criminal Justice - The Johns Hopkins Undergraduate Law Review, accessed July 6, 2025, https://jhulr.org/2025/01/01/algorithmic-justice-or-bias-legal-implications-of-predictive-policing-algorithms-in-criminal-justice/
+The Use of Artificial Intelligence in Predictive Policing - NAACP, accessed July 6, 2025, https://naacp.org/sites/default/files/documents/CHOPE_AI.pdf
+Artificial Intelligence in Predictive Policing Issue Brief - NAACP, accessed July 6, 2025, https://naacp.org/resources/artificial-intelligence-predictive-policing-issue-brief
+Does Predictive Policing Lead to Biased Arrests? Results From a Randomized Controlled Trial, accessed July 6, 2025, https://www.math.ucla.edu/~bertozzi/papers/BrantinghamMohlerA.pdf
+Report Claims Predictive Policing Targets Marginalized - Davis Vanguard, accessed July 6, 2025, https://davisvanguard.org/2025/03/report-claims-predictive-policing-targets-marginalized/
+Algorithmic Bias in AI Employment Decisions - Journal of ..., accessed July 6, 2025, https://jtip.law.northwestern.edu/2025/01/30/algorithmic-bias-in-ai-employment-decisions/
+ACM Conference on Fairness, Accountability, and Transparency - Wikipedia, accessed July 6, 2025, https://en.wikipedia.org/wiki/ACM_Conference_on_Fairness,_Accountability,_and_Transparency
+www.hklaw.com, accessed July 6, 2025, https://www.hklaw.com/en/insights/publications/2025/03/artificial-intelligence-in-hiring-diverging-federal-state-perspectives#:~:text=For%20example%2C%20in%20a%20landmark,used%20by%20thousands%20of%20companies.
+Artificial Intelligence in Hiring: Diverging Federal, State Perspectives on AI in Employment?, accessed July 6, 2025, https://www.hklaw.com/en/insights/publications/2025/03/artificial-intelligence-in-hiring-diverging-federal-state-perspectives
+Digital redlining - Wikipedia, accessed July 6, 2025, https://en.wikipedia.org/wiki/Digital_redlining
+Digital Redlining: What It Is and How It Continues to Impact Communities - CNET, accessed July 6, 2025, https://www.cnet.com/home/internet/digital-redlining-and-its-enduring-impact-on-communities/
+Digital Redlining and the Black Rural South - Capital B News, accessed July 6, 2025, https://capitalbnews.org/broadband-internet-black-rural-south/
+Digital Redlining | County Health Rankings & Roadmaps, accessed July 6, 2025, https://www.countyhealthrankings.org/findings-and-insights/digital-redlining
+Predatory advertising - Wikipedia, accessed July 6, 2025, https://en.wikipedia.org/wiki/Predatory_advertising
+MAPPING EXPLOITATION - Student Borrower Protection Center, accessed July 6, 2025, https://protectborrowers.org/wp-content/uploads/2021/07/SBPC-Mapping-Exploitation-Report.pdf
+Multilevel Marketing, an Unwinnable Lottery: How MLMs Illegally Target Women and Minorities Using Deceptive and Predatory Recrui - Georgetown Law, accessed July 6, 2025, https://www.law.georgetown.edu/gender-journal/wp-content/uploads/sites/20/2023/04/GT-GJGL230006.pdf
+Policy solutions to predatory marketing: Protecting today's children and youth from a lifetime of chronic disease | NCD Alliance, accessed July 6, 2025, https://ncdalliance.org/news-events/news/policy-solutions-to-predatory-marketing-protecting-today%E2%80%99s-children-and-youth-from-a-lifetime-of-chronic-disease
+The Failure of Fair Information Practice Principles - ResearchGate, accessed July 6, 2025, https://www.researchgate.net/publication/228226749_The_Failure_of_Fair_Information_Practice_Principles
+The Cost of Data Privacy Negligence (And How to Avoid It) - Countly, accessed July 6, 2025, https://countly.com/blog/data-privacy-negligence
+Data privacy compliance challenges: navigating the regulatory landscape - TrustCommunity, accessed July 6, 2025, https://community.trustcloud.ai/docs/grc-launchpad/grc-101/governance/data-privacy-compliance-challenges-navigating-the-regulatory-landscape/
+A Comparative Analysis of the NIST Privacy Framework vs. the EU's GDPR - Securiti.ai, accessed July 6, 2025, https://securiti.ai/nist-privacy-framework-vs-eu-gdpr/
+NIST Privacy Framework - Hyperproof, accessed July 6, 2025, https://hyperproof.io/nist-privacy-framework/
+Targeted Universalism | Othering & Belonging Institute, accessed July 6, 2025, https://belonging.berkeley.edu/targeted-universalism
+Postdevelopment theory - Wikipedia, accessed July 6, 2025, https://en.wikipedia.org/wiki/Postdevelopment_theory
+Universalism - IB Global Politics, accessed July 6, 2025, https://glopoib.wordpress.com/universalism/
+Contextual integrity - Wikipedia, accessed July 6, 2025, https://en.wikipedia.org/wiki/Contextual_integrity
+998: Primer on the Contextual Integrity Theory of Privacy with Philosopher Helen Nissenbaum - Voices of VR Podcast, accessed July 6, 2025, https://voicesofvr.com/998-primer-on-the-contextual-integrity-theory-of-privacy-with-philosopher-helen-nissenbaum/
+Contextual Integrity Up and Down the Data Food Chain - Helen Nissenbaum, accessed July 6, 2025, https://nissenbaum.tech.cornell.edu/papers/Contextual%20Integrity%20Up%20and%20Down.pdf
+Going Against the (Appropriate) Flow: A Contextual Integrity Approach to Privacy Policy Analysis - Submitted to FTC PrivacyCon20, accessed July 6, 2025, https://www.ftc.gov/system/files/documents/public_events/1415032/privacycon2019_yan_shvartzshnaider.pdf
+"Privacy as Contextual Integrity" by Helen Nissenbaum - UW Law Digital Commons, accessed July 6, 2025, https://digitalcommons.law.uw.edu/wlr/vol79/iss1/10/
+Critical race theory - Wikipedia, accessed July 6, 2025, https://en.wikipedia.org/wiki/Critical_race_theory
+Data & Society — Race, Surveillance, Resistance, accessed July 6, 2025, https://datasociety.net/library/race-surevillance-resistance/
+Surveillance as a Feminist Issue | Privacy International, accessed July 6, 2025, https://privacyinternational.org/news-analysis/3376/surveillance-feminist-issue
+Data + Feminism Lab, MIT, accessed July 6, 2025, https://dataplusfeminism.mit.edu/
+Design Justice Network Principles - Digital Government Hub, accessed July 6, 2025, https://digitalgovernmenthub.org/library/design-justice-network-principles/
+Design Justice Network Principles — R / D - Reading Design, accessed July 6, 2025, https://www.readingdesign.org/design-justice-network-principles
+Design Justice Network - Allied Media Projects, accessed July 6, 2025, https://alliedmedia.org/projects/design-justice-project
+Read the Principles — Design Justice Network, accessed July 6, 2025, https://designjustice.org/read-the-principles
+Embracing Anti-Oppressive Practice: Building a More Inclusive and Equitable Society, accessed July 6, 2025, https://www.lifepaththerapy.org/blog/embracing-anti-oppressive-practice-building-a-more-inclusive-and-equitable-society
+Opening up inclusion: Anti-oppression and inclusive design ..., accessed July 6, 2025, https://www.bridgeable.com/designership_posts/opening-up-inclusion-anti-oppression-and-the-future-of-inclusive-design/
+A framework for anti-oppressive design | by Jessica Meharry - Medium, accessed July 6, 2025, https://medium.com/@jessicajmeharry/a-framework-for-anti-oppressive-design-6877a4964b3a
+What is co-design? - Beyond Sticky Notes, accessed July 6, 2025, https://www.beyondstickynotes.com/what-is-codesign
+What Is Codesign? | IxDF, accessed July 6, 2025, https://www.interaction-design.org/literature/topics/codesign
+Co-design with marginalised people: designers' perceptions of barriers and enablers, accessed July 6, 2025, https://www.tandfonline.com/doi/full/10.1080/15710882.2021.1883065
+Co-design Tensions Between Parents, Children, and Researchers Regarding Mobile Health Technology Design Needs and Decisions: Case Study, accessed July 6, 2025, https://pmc.ncbi.nlm.nih.gov/articles/PMC10148216/
+(PDF) Generative Tools for Co-designing - ResearchGate, accessed July 6, 2025, https://www.researchgate.net/publication/242386653_Generative_Tools_for_Co-designing
+Diversity, Equity, and Inclusion Resource and Advisory Committee (DRAC) Equity Impact Assessment Tool - COMSEP, accessed July 6, 2025, https://www.comsep.org/drac-eia-tool/
+Health Equity Impact Assessment (HEIA) - CAMH, accessed July 6, 2025, https://www.camh.ca/en/professionals/professionals--projects/heia
+Equity Review Tool - Every Learner Everywhere, accessed July 6, 2025, https://www.everylearnereverywhere.org/resources/equity-review-tool/
+Evidence- and Consensus-Based Digital Healthcare Equity Framework - Johns Hopkins Bloomberg School of Public Health, accessed July 6, 2025, https://publichealth.jhu.edu/sites/default/files/2025-03/health-equity-practical-guide_AHRQ-publication_Implementation.pdf
+Impact Assessment 101 - Comprehensive Guide to Business Impact Analysis - Simfoni, accessed July 6, 2025, https://simfoni.com/impact-assessment-101/
+Ensuring Data Privacy in AI: Best Practices and Challenges - Rapid Innovation, accessed July 6, 2025, https://www.rapidinnovation.io/post/best-practices-ai-data-privacy
+Data Privacy In AI-Driven Learning And Ethical Considerations - eLearning Industry, accessed July 6, 2025, https://elearningindustry.com/ensuring-data-privacy-and-ethical-considerations-in-ai-driven-learning
+AI and Data Privacy: Practical Tips for Securing AI Systems | SmartDev, accessed July 6, 2025, https://smartdev.com/ai-and-data-privacy-balancing-innovation-with-security/
+Privacy & Surveillance Archives - AI Now Institute, accessed July 6, 2025, https://ainowinstitute.org/research-areas/privacy-surveillance
+Tech Experts Share Tested And Effective Data Minimization Strategies - Forbes, accessed July 6, 2025, https://www.forbes.com/councils/forbestechcouncil/2024/08/06/tech-experts-share-tested-and-effective-data-minimization-strategies/
+Equitable differential privacy - PMC, accessed July 6, 2025, https://pmc.ncbi.nlm.nih.gov/articles/PMC11363707/
+Best Practices to Mitigate AI Data Privacy Concerns - Salient Process, accessed July 6, 2025, https://salientprocess.com/blog/best-practices-to-mitigate-ai-data-privacy-concerns/
+Shaping futures with Speculative design - AFRY, accessed July 6, 2025, https://afry.com/en/insight/shaping-future-through-speculative-design
+How to Get Started with Speculative Design: A Step-by-Step Guide - Onething Design, accessed July 6, 2025, https://www.onething.design/post/speculative-design
+Speculative Design for long term future foresight and strategy - Trend Atelier, accessed July 6, 2025, https://www.thetrendatelier.com/insights/speculative-design-future-forecasting-macro-trends
+How Afrofuturism mixes science fiction and social justice | PBS News, accessed July 6, 2025, https://www.pbs.org/newshour/arts/meet-afrofuturists-oakland
