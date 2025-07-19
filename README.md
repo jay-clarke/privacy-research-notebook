@@ -6,6 +6,8 @@ but all of it’s me. reviewed by me. shaped by what i’m curious about. posted
 
 use it, fork it, ignore it, remix it. this repo is part research, part wandering.
 
+this is ai-assisted, human-reviewed work. if you use or remix it, a shout or link back is appreciated — helps trace the lineage of curiosity.
+ 
 ## why this exists
 
 i think privacy is linked with freedom.  
@@ -16,3 +18,5 @@ especially for the folks who don’t usually get to opt in.
 
 this isn’t polished. it’s not a product.  
 it’s just where i go to make sense of it all.
+
+
