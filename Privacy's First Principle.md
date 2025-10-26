@@ -6,7 +6,7 @@
 
 In *Cybersecurity First Principles*, Rick Howard defines security’s first principle as:
 
-***reducing the probability of material harm to the business over x number of years.***
+***reduce the probability of material impact due to a cyber-event over the next 3 years.***
 
 That line got me thinking. If privacy had a first principle, what would it be? Compliance frameworks like GDPR, HIPAA, and CCPA aren’t first principles. They’re attempts to establish minimum parameters for privacy programs, necessary to avoid fines, but not essential to the organization’s core purpose (as Howard might argue).
 
