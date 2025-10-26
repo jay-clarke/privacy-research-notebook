@@ -21,8 +21,7 @@ When you take each of the seven design principles and sit with them, you start t
 * Proactive, not reactive… toward what?  
 * Privacy as default… in service of what outcome?  
 * Embedded by design… but to achieve what, exactly?  
-* Without an underlying purpose, they float.  
-* They’re strategies searching for a principle.
+Without an underlying purpose, they float. They’re strategies searching for a principle.
 
 
 If you keep asking “why,” you eventually reach the same root:
@@ -30,7 +29,7 @@ If you keep asking “why,” you eventually reach the same root:
 **The first principle of privacy:**  
 *reduce the probability and magnitude of harm, to people, to trust, and to the organization, from the misuse or unethical processing of personal data.*
 
-This principle provides a pragmatic foundation for risk management.Our first principle serves as the essential, operational starting point for preventing negative outcomes, which can then be layered with a deeper commitment to protecting individual dignity and autonomy.
+This principle provides a pragmatic foundation for risk management. Our first principle serves as the essential, operational starting point for preventing negative outcomes, which can then be layered with a deeper commitment to protecting individual dignity and autonomy.
 
 ---
 
